@@ -7,7 +7,7 @@ int main()
     const char* result = add("Ala ", "ma psa i kota.");
     cout << result << endl;
     delete []result;
-    cout << "... a ja wole moja mame ... " << endl;
+    cout << "... a ja wole moja mame, co ma wlosy jak atrament ... " << endl;
     cout << "tarararam" << endl;
     return 0;
 }
