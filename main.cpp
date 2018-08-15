@@ -9,5 +9,6 @@ int main()
     delete []result;
     cout << "... a ja wole moja mame, co ma wlosy jak atrament ... " << endl;
     cout << "tarararam" << endl;
+    cout << "I want to check something." << endl;
     return 0;
 }
