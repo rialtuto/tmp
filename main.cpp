@@ -11,5 +11,6 @@ int main()
     cout << "tarararam" << endl;
     cout << "I want to check something." << endl;
     int i = 24 + 16;
+    double data = 3.14;
     return 0;
 }
