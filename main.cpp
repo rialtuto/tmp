@@ -10,5 +10,6 @@ int main()
     cout << "... a ja wole moja mame, co ma wlosy jak atrament ... " << endl;
     cout << "tarararam" << endl;
     cout << "I want to check something." << endl;
+    int i = 24 + 16;
     return 0;
 }

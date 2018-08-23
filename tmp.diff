@@ -1,0 +1,13 @@
+diff --git a/main.cpp b/main.cpp
+index f1832db..7527d48 100644
+--- a/main.cpp
++++ b/main.cpp
+@@ -7,7 +7,7 @@ int main()
+     const char* result = add("Ala ", "ma psa i kota.");
+     cout << result << endl;
+     delete []result;
+-    cout << "... a ja wole moja mame, co ma wlosy jak atrament ... " << endl;
++    cout << "... a ja wole moja mame ... " << endl;
+     cout << "tarararam" << endl;
+     return 0;
+ }
