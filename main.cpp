@@ -10,5 +10,6 @@ int main()
     cout << "... a ja wole moja mame, co ma wlosy jak atrament ... " << endl;
     cout << "tarararam" << endl;
     cout << "I want to check something." << endl;
+    double data = 3.14;
     return 0;
 }
